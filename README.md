@@ -1,4 +1,4 @@
-# Superstore-Data-Analysis-with-Power-BI
+# Power BI-Driven Analysis of Superstore Data
 Overview
 
 In the era of data-driven decision-making, utilizing advanced analytics tools is crucial for understanding business performance and customer behavior. This analysis focuses on a local store's e-commerce data, leveraging Power BI to uncover insights that drive strategic decisions.
